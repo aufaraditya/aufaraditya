@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aufaraditya
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React, Python, Laravel and SAP ABAP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Software Development Project
 - 📫 How to reach me ...
 
 <!---
