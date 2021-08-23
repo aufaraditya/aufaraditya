@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any Software Development Project
 - 📫 You can contact me via email or my Twitter
 - 📌 Created [SAP ABAP 101](https://instagram.com/sapabap101) to help people learn SAP ABAP easier with illustration 
+- 🤝 Open to discuss what I can improve from my app. Contact me via Twitter or Email
 
 <!---
 aufaraditya/aufaraditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
