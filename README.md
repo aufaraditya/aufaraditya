@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aufaraditya
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript, React, Python, Flask, Laravel and SAP ABAP
+- 🌱 I’m currently learning Javascript, React, Python, Flask, Laravel and SAP ABAP-FIORI-UI5
 - 💞️ I’m looking to collaborate on any Software Development Project
 - 📫 You can contact me via email or my Twitter
 - 📌 Created [SAP ABAP 101](https://instagram.com/sapabap101) to help people learn SAP ABAP easier with illustration 
