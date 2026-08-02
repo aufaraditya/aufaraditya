@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 SAP Development for a living<br>🌱
+🔭 SAP Development for a living<br>
 
 
 ## 🌐 Socials:
